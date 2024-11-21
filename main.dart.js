@@ -20349,7 +20349,7 @@ aaD(){var s=0,r=A.U(t.eh),q,p=2,o,n,m,l,k,j,i
 var $async$aaD=A.V(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:p=4
 s=7
-return A.X(A.axg(A.h8("https://cors.bridged.cc/https://www.demonslayer-api.com/api/v1/combat-styles")),$async$aaD)
+return A.X(A.axg(A.h8("https://api.allorigins.win/raw?url=https://www.demonslayer-api.com/api/v1/combat-styles")),$async$aaD)
 case 7:n=b
 if(n.b===200){k=n
 m=J.bh(B.cm.dz(0,A.ax0(A.av8(k.e).c.a.i(0,"charset")).dz(0,k.w)),"content")
